@@ -26,7 +26,7 @@ var
 	// List of deleted data cache ids, so we can reuse them
 	core_deletedIds = [],
 
-	core_version = "@VERSION",
+	core_version = "@VERSION", //version number
 
 	// Save a reference to some core methods
 	core_concat = core_deletedIds.concat,
